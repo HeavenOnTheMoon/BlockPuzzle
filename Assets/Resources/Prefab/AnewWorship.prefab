@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1281932107840568855
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1281932107831639783}
+  - component: {fileID: 1281932107342021518}
+  - component: {fileID: 1281932107678132445}
+  - component: {fileID: 1281932107056447957}
+  - component: {fileID: 1281932107834430243}
+  - component: {fileID: 1281932107096254174}
+  - component: {fileID: 1281932107770293459}
+  - component: {fileID: 1281932107974753113}
+  - component: {fileID: 1281932107016842289}
+  - component: {fileID: 1281932107061713666}
+  - component: {fileID: 1281932107541998694}
+  m_Layer: 0
+  m_Name: AnewWorship
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1281932107831639783
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1281932107342021518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9009b9782ddf404ea42f390c49bccef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BaseUrl: http://crazygoblingamestudio.com/
+  BaseLoginUrl: http://crazygoblingamestudio.com//api/client/user/getId?gameCode=
+  BaseConfigUrl: http://crazygoblingamestudio.com//api/client/config?gameCode=
+  BaseTimeUrl: http://crazygoblingamestudio.com//api/client/common/current_timestamp?gameCode=
+  BaseAdjustUrl: http://crazygoblingamestudio.com//api/client/user/setAdjustId?gameCode=
+  GameCode: 21141
+  Channel: GooglePlay
+  country: 
+  adManager: {fileID: 0}
+  gaid: 
+  aid: 
+  idfa: 
+  ready: 0
+--- !u!114 &1281932107678132445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6064151b3ddea0e4ea673f2c53b407df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1281932107056447957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59df2ec274902834c8d83a40a86dd5c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appid: 6553977094
+--- !u!114 &1281932107834430243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59e87ce05064f7a4cb515f44a5f0ae30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  adjustID: y28v6ouf6kg0
+--- !u!114 &1281932107096254174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691aba6451b78724c800a418eac199df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BlockSprites:
+  - {fileID: 21300000, guid: 7be9b346c51e4c64790331d0961e55a6, type: 3}
+  - {fileID: 21300000, guid: 56705564292847541b9ab7df1cc24e16, type: 3}
+  - {fileID: 21300000, guid: 6a455f7c27352d34aabe400b8437ca92, type: 3}
+  - {fileID: 21300000, guid: 978e547911e6ad147a108e63d8e9004e, type: 3}
+  - {fileID: 21300000, guid: c57883bd64b10d14f997231cf99ad8ad, type: 3}
+  - {fileID: 21300000, guid: 0cbdab73c1a4ed54f82147beef4457af, type: 3}
+  - {fileID: 21300000, guid: 7e0f8411a2f744349942ad6617c1f6aa, type: 3}
+  - {fileID: 21300000, guid: 54a690dac38da184db7eba36b4a2adf8, type: 3}
+  - {fileID: 21300000, guid: bb9853e037188f9408ee93038780439b, type: 3}
+  BlockTargetSprites:
+  - {fileID: 21300000, guid: 74f1c1a0a9332aa4dbed6e26a20e365a, type: 3}
+  - {fileID: 21300000, guid: 24bc13136371a9947a780f8f36f8253e, type: 3}
+  - {fileID: 21300000, guid: aa3dff2533a76da45b67278543404210, type: 3}
+  - {fileID: 21300000, guid: 674cb85f885fc7b4cb20c32ed5f489aa, type: 3}
+  - {fileID: 21300000, guid: 499f2ea57d2a0fe40b8ba3acd7a4052d, type: 3}
+  BlockGroupItems: []
+  ColorBlockSprites:
+  - {fileID: 21300000, guid: 205389cfa331c8b46a1cd16a3f20ce9b, type: 3}
+  - {fileID: 21300000, guid: d8aaa52b238948e4cb4e065664ffe0b4, type: 3}
+  - {fileID: 21300000, guid: 871a150d27d8582408a30e64ff834060, type: 3}
+  - {fileID: 21300000, guid: f13b724955a48d24187e72c75a519c60, type: 3}
+  - {fileID: 21300000, guid: 8e459759ca01c494094d026ccd85cb42, type: 3}
+--- !u!114 &1281932107770293459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc7c9eeb68fcfb46961d78e03333fa2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CheckBoardInfo: []
+  ChangeDistance: 0.225
+  CashShowPos: {fileID: 0}
+  SourceShowPos: {fileID: 0}
+  ClearBlockGroupCount: 0
+  ScratchObjs: {fileID: 0}
+  duration: 0.5
+  strength: 10
+  vibrato: 10
+  randomness: 90
+  FailedBlock: []
+--- !u!114 &1281932107974753113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b1c2a0b89264543a3e63ff89160123, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurLevelInfo: 
+  CheckBoardInfoInts: 
+  SumTargetCount: 0
+--- !u!114 &1281932107016842289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e22ac57fc433d84484a1d92e499241c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  accumulateCount: 0
+  CurCompleteWord: 0
+  CurChapterSch: 0
+  CurTotalChapter: 0
+  isHaveScratchCard: 0
+  isHaveScratchReward: 0
+  isHaveWheel: 0
+  isHaveSource: 0
+  Schedule: 
+--- !u!114 &1281932107061713666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b768c5e4fa63c49b08525b0ab75239, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnceSource: 0
+  MentalRewardID: 0
+--- !u!114 &1281932107541998694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281932107840568855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d7fa781402ef24449aa9f2fbbda833a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ChapterCount: 890000005b0000007a0000006c000000620000008a00000067000000

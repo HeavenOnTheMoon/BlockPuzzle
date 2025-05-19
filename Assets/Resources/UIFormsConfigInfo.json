@@ -1,0 +1,159 @@
+{
+    "ConfigInfo": [
+        {
+            "Key": "\u672C\u914D\u7F6E\u6587\u4EF6\u8BF4\u660E"
+        },
+        {
+            "Key": "TownDelta",
+            "Value": "UIPanel\\TownDelta"
+        },
+        {
+            "Key": "TownDelta_A",
+            "Value": "UIPanel\\TownDelta_A"
+        },
+        {
+            "Key": "TwigDelta",
+            "Value": "UIPanel\\TwigDelta"
+        },
+        {
+            "Key": "CannonDelta",
+            "Value": "UIPanel\\CannonDelta"
+        },
+        {
+            "Key": "LifewayDelta",
+            "Value": "UIPanel\\LifewayDelta"
+        },
+        {
+            "Key": "Leafy",
+            "Value": "UIPanel\\Leafy"
+        },
+        {
+            "Key": "ClueBeDelta",
+            "Value": "UIPanel\\ClueBeDelta"
+        },
+        {
+            "Key": "LowerParisDelta",
+            "Value": "UIPanel\\LowerParisDelta"
+        },
+        {
+            "Key": "ImagePerchDelta",
+            "Value": "UIPanel\\ImagePerchDelta"
+        },
+        {
+            "Key": "SquashDelta",
+            "Value": "UIPanel\\SquashDelta"
+        },
+        {
+            "Key": "QualitativeDelta",
+            "Value": "UIPanel\\QualitativeDelta"
+        },
+        {
+            "Key": "HyperDelta",
+            "Value": "UIPanel\\HyperDelta"
+        },
+        {
+            "Key": "HyperSquashDelta",
+            "Value": "UIPanel\\HyperSquashDelta"
+        },
+        {
+            "Key": "PylonDelta",
+            "Value": "UIPanel\\PylonDelta"
+        },
+        {
+            "Key": "VaporDelta",
+            "Value": "UIPanel\\VaporDelta"
+        },
+        {
+            "Key": "SolidDelta",
+            "Value": "UIPanel\\SolidDelta"
+        },
+        {
+            "Key": "FannerDelta",
+            "Value": "UIPanel\\FannerDelta"
+        },
+        {
+            "Key": "TownSolidDelta",
+            "Value": "UIPanel\\TownSolidDelta"
+        },
+        {
+            "Key": "PortraitRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RedeemPanel"
+        },
+        {
+            "Key": "PortraitWithdrawPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\WithdrawPanel"
+        },
+        {
+            "Key": "PortraitConfirmEmailPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\ConfirmEmailPanel"
+        },
+        {
+            "Key": "PortraitRecordPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RecordPanel"
+        },
+        {
+            "Key": "PortraitGoldAmazonRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\GoldAmazonRedeemPanel"
+        },
+        {
+            "Key": "PortraitRedeemGiftPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RedeemGiftPanel"
+        },
+        {
+            "Key": "PortraitAddressPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\AddressPanel"
+        },
+        {
+            "Key": "PortraitInstructionsPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\InstructionsPanel"
+        },
+        {
+            "Key": "PortraitRewardsGiftInstructionPanel",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\RewardsGiftInstructionPanel"
+        },
+        {
+            "Key": "PortraitCollectPuzzle",
+            "Value": "SOHOShop\\UIPanel\\Portrait\\CollectPuzzle"
+        },
+        {
+            "Key": "LandscapeRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RedeemPanel"
+        },
+        {
+            "Key": "LandscapeWithdrawPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\WithdrawPanel"
+        },
+        {
+            "Key": "LandscapeConfirmEmailPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\ConfirmEmailPanel"
+        },
+        {
+            "Key": "LandscapeRecordPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RecordPanel"
+        },
+        {
+            "Key": "LandscapeGoldAmazonRedeemPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\GoldAmazonRedeemPanel"
+        },
+        {
+            "Key": "LandscapeRedeemGiftPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RedeemGiftPanel"
+        },
+        {
+            "Key": "LandscapeAddressPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\AddressPanel"
+        },
+        {
+            "Key": "LandscapeInstructionsPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\InstructionsPanel"
+        },
+        {
+            "Key": "LandscapeRewardsGiftInstructionPanel",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\RewardsGiftInstructionPanel"
+        },
+        {
+            "Key": "LandscapeCollectPuzzle",
+            "Value": "SOHOShop\\UIPanel\\Landscape\\CollectPuzzle"
+        }
+    ]
+}
