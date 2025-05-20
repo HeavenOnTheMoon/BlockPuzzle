@@ -47,14 +47,14 @@ public class TraceEnrichTraceLiter : MonoBehaviour
 
     public void ZigzagDay(Vector3 oPosition)
     {
-        transform.localScale = new Vector3(1.7857f, 1.7857f, 1.7857f);
+        transform.localScale = new Vector3(2.2f, 2.2f, 2.2f);//(1.7857f, 1.7857f, 1.7857f);
         
         transform.position = new Vector3(oPosition.x, oPosition.y + 1.5f, 0);
     }
 
     public void WormDay(Vector3 oPosition)
     {
-        transform.localScale = new Vector3(1.7857f, 1.7857f, 1.7857f);
+        transform.localScale = new Vector3(2.2f, 2.2f, 2.2f);//(1.7857f, 1.7857f, 1.7857f);
         transform.position = new Vector3(oPosition.x, oPosition.y + 1.5f, 0);
         //ShowObj[12].transform.position
         TraceEnrichGypsySaladWorship.Instance.OutwitBriefTrace(TuneSum[12].transform.position, TraceTell);
